@@ -1,5 +1,6 @@
 this is mumbai file
 
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 File is updated on master branch
@@ -8,3 +9,8 @@ File is being updated on host branch
 >>>>>>> mumbaibranch
 
 final output of both branch .
+=======
+Code line 2 aaaded on Git hub
+>>>>>>> d346131388957d729197e38cb081680a01fd4307
+
+OK
