@@ -1,5 +1,10 @@
 this is mumbai file
 
 
+<<<<<<< HEAD
 File is updated on master branch
+=======
+File is being updated on host branch
+>>>>>>> mumbaibranch
 
+final output of both branch .
